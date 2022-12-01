@@ -7,7 +7,7 @@
 If you find this work helpful to your research, please consider citing the paper:
 
 ```bibtex
-@inproceedings{li2023vblc,
+@inproceedings{dong2023afformer,
   title={AFFormer: Head-Free Lightweight Semantic Segmentation with Linear Transformer},
   author={Bo, Dong and Pichao, Wang and Fan Wang},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
