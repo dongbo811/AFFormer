@@ -1,4 +1,4 @@
-# AFFormer for Head-Free Lightweight Semantic Segmentation with Linear Transformer
+# Head-Free Lightweight Semantic Segmentation with Linear Transformer
 
 [AFFormer: Head-Free Lightweight Semantic Segmentation with Linear Transformer](https://arxiv.org/abs/xxxx). AAAI2023.
 
