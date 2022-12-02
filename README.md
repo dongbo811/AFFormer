@@ -2,9 +2,20 @@
 
 This repository contains the official Pytorch implementation of training & evaluation code and the pretrained models for [AFFormer](https://arxiv.org/abs/xxxx).🔥🔥
 
+<!-- ![image](docs/figure1.png) -->
+
+<div align="center">
+  <img src="./docs/figure1.png" height="400">
+</div>
+<p align="center">
+  Figure 1: Performance of AFFormer.
+</p>
+
 AFFormer is a head-free, lightweight and powerful semantic segmentation method, as shown in Figure 1.
 
 We use [MMSegmentation v0.21.1](https://github.com/open-mmlab/mmsegmentation/tree/v0.21.1) as the codebase.
+
+
 
 ## Installation
 
@@ -78,7 +89,6 @@ python demo/image_demo.py demo/demo.png local_configs/segformer/B1/segformer.b1.
 ## License
 
 The code is released under the MIT license.
-
 
 ## Copyright
 
