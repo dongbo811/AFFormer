@@ -28,7 +28,7 @@ Download `weights`
 [alidrive](https://www.aliyundrive.com/s/Ha2xMsG9ufy)
 )
 
-Example: evaluate ```AFFormer-base``` on ```ADE20K``` with 2 GPUs:
+Example: evaluate ```AFFormer-base``` on ```ADE20K``` :
 
 ```
 # Single-gpu testing
