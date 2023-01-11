@@ -65,10 +65,10 @@ Example: train ```AFFormer-base``` on ```ADE20K```:
 
 ```
 # Single-gpu training
-bash dist_train.sh ./configs/AFFormer/AFFormer_base_ade20k.py
+bash tools/dist_train.sh ./configs/AFFormer/AFFormer_base_ade20k.py
 
 # Multi-gpu training
-bash dist_train.sh ./configs/AFFormer/AFFormer_base_ade20k.py <GPU_NUM>
+bash tools/dist_train.sh ./configs/AFFormer/AFFormer_base_ade20k.py <GPU_NUM>
 ```
 
 ## Visualize
