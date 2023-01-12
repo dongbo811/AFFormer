@@ -1,6 +1,6 @@
 # Head-Free Lightweight Semantic Segmentation with Linear Transformer
 
-This repository contains the official Pytorch implementation of training & evaluation code and the pretrained models for [AFFormer](https://arxiv.org/abs/xxxx).🔥🔥
+This repository contains the official Pytorch implementation of training & evaluation code and the pretrained models for [AFFormer](https://arxiv.org/pdf/2301.04648.pdf).🔥🔥
 
 <!-- ![image](docs/figure1.png) -->
 
