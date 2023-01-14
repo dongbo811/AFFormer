@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # base
 bash dist_train.sh ./configs/AFFormer/AFFormer_base_ade20k.py 4
 bash dist_train.sh ./configs/AFFormer/AFFormer_base_cityscapes.py 2
