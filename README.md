@@ -59,7 +59,7 @@ Download `weights`
 [google drive](https://drive.google.com/drive/folders/1Mru24qPdta9o8aLn1RwT8EapiQCih1Sw?usp=share_link) |
 [alidrive](https://www.aliyundrive.com/s/Ha2xMsG9ufy)
 )
-pretrained on ImageNet-1K ([Refer to deit](https://github.com/facebookresearch/deit), and put them in a folder ```pretrained/```.
+pretrained on ImageNet-1K (Refer to [deit](https://github.com/facebookresearch/deit)), and put them in a folder ```pretrained/```.
 
 Example: train ```AFFormer-base``` on ```ADE20K```:
 
